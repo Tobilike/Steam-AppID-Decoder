@@ -21,7 +21,8 @@ Dieses Skript scannt den Ordner und erstellt im Handumdrehen ein übersichtliche
 ### Installation & Start
 1. Lade die Skript-Datei herunter (z. B. als `steam_decoder.py`).
 2. Verschiebe die Datei in deinen Steam-Ordner (idealerweise direkt in den Ordner `steamapps`).
-3. Öffne ein Terminal in diesem Ordner und starte das Skript:
+           Dort wo die ganzen .acf Datein liegen.
+4. Öffne ein Terminal in diesem Ordner und starte das Skript:
 
 ```bash
 python steam_decoder.py
