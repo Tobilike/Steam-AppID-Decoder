@@ -29,6 +29,9 @@ python steam_decoder.py
 
 ### Alternativer Pfad
 Falls du das Skript von einem anderen Ort aus ausführen möchtest, kannst du den Pfad zum steamapps-Ordner einfach als Argument hinten anhängen:
+```bash
+python steam_decoder.py /pfad/zu/deinem/steam/steamapps
+```
 
 ## 📊 Beispiel-Ausgabe
 
